@@ -1,0 +1,51 @@
+.video{
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: left;
+    width: 400px;
+    line-height: 24px;
+    margin-bottom: 0px;
+
+}
+.views{
+    font-family: Poppins;
+    font-size: 13px;
+    text-align: left;
+    color: gray;
+    margin-top: 3px;
+}
+.author{
+    font-family: Poppins;
+    font-size: 13px;
+    text-align: left;
+    color: gray;
+}
+.sundar{
+    font-family: Poppins;
+    font-size: 13px;
+    text-align: left;
+    color: gray;
+    width: 280;
+}
+.apple{
+    font-family: Poppins;
+    font-size: 13px;
+    text-align: center;
+    background-color: rgb(227, 65, 64);
+    color: aliceblue;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+.shop{
+    cursor: pointer;
+}
+.shop:hover{
+    text-decoration: underline;
+}
+.shop:active{
+    color: green;
+}

@@ -1,0 +1,85 @@
+.sidebar{
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    top: 58px;
+    width: 75px;
+    background-color: rgb(255, 255, 255);
+}
+
+.home-icon{
+    height: 25px;
+    margin-top: 17px;
+    margin-left: 24px;
+}
+.home-text{
+   font-size: 11px;
+   margin-left: 22px;
+}
+
+.explore-icon{
+    height: 25px;
+    margin-top: 18px;
+    margin-left: 24px;
+}
+
+.explore-text{
+    font-size: 11px;
+    margin-left: 18px;
+}
+
+.subscription-icon{
+    height: 25px;
+    margin-top: 18px;
+    margin-left: 24px;
+}
+
+.subscription-text{
+    font-size: 11px;
+    margin-left: 6px;
+}
+
+.original-icon{
+    height: 25px;
+    margin-top: 18px;
+    margin-left: 24px;
+}
+
+.original-text{
+    font-size: 11px;
+    margin-left: 17px;
+}
+
+.music-icon{
+    height: 25px;
+    margin-top: 18px;
+    margin-left: 24px;
+}
+
+.music-text{
+    font-size: 11px;
+    margin-left: 3px;
+}
+
+.library-icon{
+    height: 25px;
+    margin-top: 18px;
+    margin-left: 24px;
+}
+
+.library-text{
+    font-size: 11px;
+    margin-left: 20px;
+}
+
+.sidebar-best{
+    background-color: rgb(255, 255, 255);
+    height: 75px;
+    margin-bottom: 3px;
+    justify-content: center;
+}
+
+.sidebar-best:hover{
+    background-color: rgb(208, 208, 208);
+}
+
